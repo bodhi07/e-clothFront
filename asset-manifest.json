@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/e-clothFront/static/css/main.f50a5356.css",
+    "main.js": "/e-clothFront/static/js/main.51db12b1.js",
+    "static/js/453.835b9716.chunk.js": "/e-clothFront/static/js/453.835b9716.chunk.js",
+    "static/media/Wedding Dress.jpg": "/e-clothFront/static/media/Wedding Dress.78a40d54e57e53496ea4.jpg",
+    "static/media/bg-1.png": "/e-clothFront/static/media/bg-1.28bfa57d8afaba9d19ce.png",
+    "static/media/Trousers.jpg": "/e-clothFront/static/media/Trousers.b349508a697f593b9b95.jpg",
+    "static/media/GreenShirt.jpg": "/e-clothFront/static/media/GreenShirt.54f668e1d787e5746a94.jpg",
+    "static/media/Saree.jpg": "/e-clothFront/static/media/Saree.c97ebec9de8aadeb90dd.jpg",
+    "static/media/hero-img.png": "/e-clothFront/static/media/hero-img.b40fc415b01e4db2ba16.png",
+    "static/media/kurtis.jpg": "/e-clothFront/static/media/kurtis.51084ad890f0b37e80b7.jpg",
+    "static/media/shirts.jpg": "/e-clothFront/static/media/shirts.bbc72b9b5ef2fa306808.jpg",
+    "static/media/dresses.jpg": "/e-clothFront/static/media/dresses.30688c3b200699c37e0c.jpg",
+    "static/media/jeans.jpg": "/e-clothFront/static/media/jeans.d6596947089b6bd3d21b.jpg",
+    "static/media/Shalvar.jpg": "/e-clothFront/static/media/Shalvar.cc0fc5c2b3dc290fc9aa.jpg",
+    "static/media/Frock.jpg": "/e-clothFront/static/media/Frock.d75e9e1aabb28e2e4d80.jpg",
+    "static/media/Inter-Bold.ttf": "/e-clothFront/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-Medium.ttf": "/e-clothFront/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-ExtraLight.ttf": "/e-clothFront/static/media/Inter-ExtraLight.fbcf1d9ad9d7bac9f6de.ttf",
+    "static/media/Inter-Regular.ttf": "/e-clothFront/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/joggers.jpg": "/e-clothFront/static/media/joggers.1dda80e4eb294fba0ff5.jpg",
+    "static/media/tshirts.jpeg": "/e-clothFront/static/media/tshirts.d8c44998da8119366aeb.jpeg",
+    "static/media/revicons.eot": "/e-clothFront/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/e-clothFront/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/e-clothFront/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/e-clothFront/index.html",
+    "main.f50a5356.css.map": "/e-clothFront/static/css/main.f50a5356.css.map",
+    "main.51db12b1.js.map": "/e-clothFront/static/js/main.51db12b1.js.map",
+    "453.835b9716.chunk.js.map": "/e-clothFront/static/js/453.835b9716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50a5356.css",
+    "static/js/main.51db12b1.js"
+  ]
+}
